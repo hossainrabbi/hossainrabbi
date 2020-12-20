@@ -143,9 +143,9 @@
   </a>
 </div>
 
-<div align="center">
+<div align="left">
   <img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainrabbi&show_icons=true&locale=en&layout=compact"
     alt="hossainrabbi"
   />
