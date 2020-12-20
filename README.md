@@ -4,15 +4,15 @@
   HTML5, CSS3, Bootstrap, JavaScript etc. I'm learning <b>ReactJS</b>.
 </p>
 
-<p align="left">
+<div align="left">
   <img
     src="https://komarev.com/ghpvc/?username=hossainrabbi&label=Profile%20views&color=0e75b6&style=flat"
     alt="hossainrabbi"
   />
-</p>
+</div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="left">
   <a href="https://fb.com/hossainrabbi71" target="blank"
     ><img
       align="center"
@@ -69,10 +69,10 @@
       height="30"
       width="40"
   /></a>
-</p>
+</div>
 
 <h3 align="right">Languages and Tools:</h3>
-<p align="right">
+<div align="right">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
@@ -125,14 +125,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://nodejs.org" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
@@ -141,12 +133,27 @@
       height="40"
     />
   </a>
-</p>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb"
+      width="40"
+      height="40"
+    />
+  </a>
+</div>
 
-<p align="center">
+<div align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainrabbi&show_icons=true&locale=en&layout=compact"
     alt="hossainrabbi"
   />
-</p>
+</div>
+
+<div align="center">
+  <img
+    src="https://i.ibb.co/sPSSGk4/687474703a2f2f796f67616e6574776f726b2e63612f77702d636f6e74656e742f75706c6f6164732f323032302f30362f64.gif"
+    alt="web"
+  />
+</div>
