@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Hossain! 👋</h1>
 <p align="center">
   I am a student of Computer Science in Diploma in Engineering. I am expert in
-  HTML5, CSS3, Bootstrap, JavaScript etc. I'm learning <b>ReactJS</b>.
+  HTML, CSS, Bootstrap, JavaScript etc. I'm learning <b>ReactJS</b>.
 </p>
 
 <br />
