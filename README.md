@@ -4,6 +4,8 @@
   HTML5, CSS3, Bootstrap, JavaScript etc. I'm learning <b>ReactJS</b>.
 </p>
 
+<br />
+
 <div align="left">
   <img
     src="https://komarev.com/ghpvc/?username=hossainrabbi&label=Profile%20views&color=0e75b6&style=flat"
@@ -147,9 +149,10 @@
 <br />
 <br />
 
-<div align="center" width="100%">
+<div align="center">
   <img
     src="https://i.ibb.co/sPSSGk4/687474703a2f2f796f67616e6574776f726b2e63612f77702d636f6e74656e742f75706c6f6164732f323032302f30362f64.gif"
     alt="web"
+    width="100%"
   />
 </div>
