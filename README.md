@@ -143,17 +143,17 @@
   </a>
 </div>
 
-<div align="left">
+<div align="center">
   <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainrabbi&show_icons=true&locale=en&layout=compact"
-    alt="hossainrabbi"
+    src="https://i.ibb.co/sPSSGk4/687474703a2f2f796f67616e6574776f726b2e63612f77702d636f6e74656e742f75706c6f6164732f323032302f30362f64.gif"
+    alt="web"
   />
 </div>
 
 <div align="center">
   <img
-    src="https://i.ibb.co/sPSSGk4/687474703a2f2f796f67616e6574776f726b2e63612f77702d636f6e74656e742f75706c6f6164732f323032302f30362f64.gif"
-    alt="web"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainrabbi&show_icons=true&locale=en&layout=compact"
+    alt="hossainrabbi"
   />
 </div>
