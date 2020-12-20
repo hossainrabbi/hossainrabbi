@@ -72,7 +72,7 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<div align="left" style="margin-bottom: 30px">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
@@ -143,15 +143,7 @@
   </a>
 </div>
 
-<div align="left">
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainrabbi&show_icons=true&locale=en&layout=compact"
-    alt="hossainrabbi"
-  />
-</div>
-
-<div align="center">
+<div align="center" style="width: 100%">
   <img
     src="https://i.ibb.co/sPSSGk4/687474703a2f2f796f67616e6574776f726b2e63612f77702d636f6e74656e742f75706c6f6164732f323032302f30362f64.gif"
     alt="web"
