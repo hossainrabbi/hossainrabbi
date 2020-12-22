@@ -1,4 +1,4 @@
-<h3 align="center">Hi there, I'm Hossain 👋</h3>
+<h2 align="center">Hi there, I'm Hossain 👋</h2>
 <p align="center">
   I am a student of Computer Science in Diploma in Engineering.
 </p>
@@ -13,7 +13,7 @@
 
 <hr>
 
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<h3 align="center">Languages & Frameworks & Tools & Abilities</h3>
 
 <p align="center">
   <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
