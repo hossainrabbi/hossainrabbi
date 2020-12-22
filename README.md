@@ -10,6 +10,8 @@
 </h5>
 <br>
 
+<p align="center">![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)</p>
+
 <hr>
 
 <h3 align="center">Languages & Frameworks & Tools</h3>
