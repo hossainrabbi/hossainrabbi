@@ -13,8 +13,8 @@
   />
 </p>
 
-<h3 align="left">Social Media:</h3>
-<p align="left">
+<h3 align="center">Social Media:</h3>
+<p align="center">
   <a href="https://fb.com/hossainrabbi71" target="blank"
     ><img
       align="center"
@@ -73,8 +73,8 @@
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
@@ -91,11 +91,6 @@
       height="40"
     />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" 
-    width="40" 
-    height="40"/> 
-  </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"
@@ -103,6 +98,13 @@
       width="40"
       height="40"
     />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img 
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" 
+      width="40" 
+      height="40"
+    /> 
   </a>
   <a href="https://sass-lang.com" target="_blank">
     <img
@@ -154,8 +156,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossainrabbi&show_icons=true&locale=en" alt="hossainrabbi" /></p>
 
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hossainrabbi&" alt="hossainrabbi" /></p>
-
-<p>
+<p width="100%">
   <img align="center" width="100%" src="https://i.ibb.co/THBH2Nj/code.gif" alt="code-img">
 </p>
