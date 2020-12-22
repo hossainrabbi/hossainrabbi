@@ -6,7 +6,7 @@
 
 <br />
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=hossainrabbi&label=Profile%20views&color=0e75b6&style=flat"
     alt="hossainrabbi"
@@ -155,6 +155,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainrabbi&show_icons=true&locale=en&layout=compact" alt="hossainrabbi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossainrabbi&show_icons=true&locale=en" alt="hossainrabbi" /></p>
+
+<br/>
 
 <p width="100%">
   <img align="center" width="100%" src="https://i.ibb.co/THBH2Nj/code.gif" alt="code-img">
