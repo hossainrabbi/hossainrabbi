@@ -155,9 +155,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainrabbi&show_icons=true&locale=en&layout=compact" alt="hossainrabbi" /></p>
 
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossainrabbi&show_icons=true&locale=en" alt="hossainrabbi" /></div>
-
-<br/>
-
-<div>
-  <img align="center" width="100%" src="https://i.ibb.co/THBH2Nj/code.gif" alt="code-img">
-</div>
