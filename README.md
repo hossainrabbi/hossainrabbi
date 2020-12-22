@@ -1,4 +1,7 @@
 <h3 align="center">Hi there, I'm Hossain 👋</h3>
+<p align="center">
+  I am a student of Computer Science in Diploma in Engineering.
+</p>
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
@@ -7,9 +10,6 @@
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-<p align="center">
-  I am a student of Computer Science in Diploma in Engineering.
-</p>
 
 <hr>
 
