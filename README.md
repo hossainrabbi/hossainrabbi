@@ -10,7 +10,7 @@
 </h5>
 <br>
 
-<p align="center">![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hossainrabbi&label=Profile%20views&color=0e75b6&style=flat" alt="hossainrabbi" /> </p>
 
 <hr>
 
