@@ -13,8 +13,7 @@
   />
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
+<p align="center">
   <a href="https://fb.com/hossainrabbi71" target="blank"
     ><img
       align="center"
@@ -71,10 +70,10 @@
       height="30"
       width="40"
   /></a>
-</div>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
@@ -143,7 +142,7 @@
       height="40"
     />
   </a>
-</div>
+</p>
 
 <br />
 <br />
