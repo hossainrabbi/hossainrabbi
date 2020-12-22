@@ -1,7 +1,4 @@
 <h1 align="center">Hi there, I'm Hossain! 👋</h1>
-
-<br />
-
 <p align="center">
   I am a student of Computer Science in Diploma in Engineering. I am expert in
   HTML, CSS, Bootstrap, JavaScript etc. Now I'm learning <b>ReactJS</b>.
@@ -160,7 +157,9 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hossainrabbi&show_icons=true&locale=en" alt="hossainrabbi" /></p>
 
 <br/>
+<br/>
+<br/>
 
-<p width="100%">
+<p>
   <img align="center" width="100%" src="https://i.ibb.co/THBH2Nj/code.gif" alt="code-img">
 </p>
