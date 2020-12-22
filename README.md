@@ -23,7 +23,7 @@
   <code><img title="React" height="25" src="https://github.com/hossainrabbi/hossainrabbi/blob/main/img/react-original.svg"></code>
   <code><img title="NodeJS" height="25" src="https://github.com/hossainrabbi/hossainrabbi/blob/main/img/nodejs.png"></code>
   <code><img title="ExpressJS" height="25" src="https://github.com/hossainrabbi/hossainrabbi/blob/main/img/Expressjs.png"></code>
-  <code><img title="MongoDB" height="25" src="https://github.com/hossainrabbi/hossainrabbi/blob/main/img/mongo-db.png"></code>
+  <code><img title="MongoDB" height="25" src="https://github.com/hossainrabbi/hossainrabbi/blob/main/img/mongodb.png"></code>
   <code><img title="Git" height="25" src="https://github.com/hossainrabbi/hossainrabbi/blob/main/img/git-original.svg"></code>
   <code><img title="VSCode" height="25" src="https://github.com/hossainrabbi/hossainrabbi/blob/main/img/vscode.png"></code>
 </p>
