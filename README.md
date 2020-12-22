@@ -152,9 +152,9 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainrabbi&show_icons=true&locale=en&layout=compact" alt="hossainrabbi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainrabbi&show_icons=true&locale=en&layout=compact" alt="hossainrabbi" />
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hossainrabbi&show_icons=true&locale=en" alt="hossainrabbi" /></p>
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hossainrabbi&show_icons=true&locale=en" alt="hossainrabbi" /></p>
 
 <br/>
 <br/>
