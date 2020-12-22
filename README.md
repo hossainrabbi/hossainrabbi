@@ -147,13 +147,13 @@
 </p>
 
 <br />
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#379](https://github.com/EddieJaoudeCommunity/EddieBot/issues/379) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-2. ❗️ Opened issue [#396](https://github.com/EddieJaoudeCommunity/EddieBot/issues/396) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-3. 🗣 Commented on [#562](https://github.com/EddieJaoudeCommunity/support/issues/562) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. 🗣 Commented on [#376](https://github.com/EddieJaoudeCommunity/EddieBot/issues/376) in [EddieJaoudeCommunity/EddieBot](https://github.com/EddieJaoudeCommunity/EddieBot)
-5. 🗣 Commented on [#560](https://github.com/EddieJaoudeCommunity/support/issues/560) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-<!--END_SECTION:activity-->
+
+<p align="left">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight&line_height=48" />
+   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&count_private=true&theme=tokyonight">
+
+</p>
 
 <br />
 <br />
