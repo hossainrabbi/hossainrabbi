@@ -6,15 +6,15 @@
 
 <br />
 
-<p align="center">
+<p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=hossainrabbi&label=Profile%20views&color=0e75b6&style=flat"
     alt="hossainrabbi"
   />
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Social Media:</h3>
+<p align="left">
   <a href="https://fb.com/hossainrabbi71" target="blank"
     ><img
       align="center"
@@ -73,8 +73,8 @@
   /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
@@ -90,6 +90,11 @@
       width="40"
       height="40"
     />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" 
+    width="40" 
+    height="40"/> 
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img
@@ -145,13 +150,12 @@
   </a>
 </p>
 
-<br />
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossainrabbi&show_icons=true&locale=en&layout=compact" alt="hossainrabbi" /></p>
 
-<div align="center">
-  <img
-    src="https://i.ibb.co/sPSSGk4/687474703a2f2f796f67616e6574776f726b2e63612f77702d636f6e74656e742f75706c6f6164732f323032302f30362f64.gif"
-    alt="web"
-    width="100%"
-  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossainrabbi&show_icons=true&locale=en" alt="hossainrabbi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossainrabbi&" alt="hossainrabbi" /></p>
+
+<p>
+  <img align="center" src="https://i.ibb.co/THBH2Nj/code.gif" alt="code-img">
+</p>
