@@ -6,12 +6,14 @@
 
 <br />
 
-<div align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=hossainrabbi&label=Profile%20views&color=0e75b6&style=flat"
     alt="hossainrabbi"
   />
-</div>
+</p>
+
+<br />
 
 <p align="center">
   <a href="https://fb.com/hossainrabbi71" target="blank"
@@ -71,6 +73,9 @@
       width="40"
   /></a>
 </p>
+
+<br />
+<br />
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
