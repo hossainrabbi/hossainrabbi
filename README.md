@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Hossain  <img src="./img/hello.gif" width="25px"></h2>
 <p align="center">
-  I am a student of Computer Science in Diploma in Engineering. and a Web Developer from Bangladesh.
+  A self-motivated, energetic, and passionate professional web Development with valuable experience in HTML, CSS, JavaScript and React JS.
 </p>
 <h5 align="center">
   <code><a href="https://fb.com/hossainrabbi71" target="blank" title="Facebook Profile"><img width="22" src="./img/facebook-32x32.png"> Facebook </a></code>
