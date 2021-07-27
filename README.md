@@ -3,8 +3,8 @@
   A self-motivated, energetic, and passionate professional web Development with valuable experience in HTML, CSS, JavaScript and React JS.
 </p>
 <h5 align="center">
-  <code><a href="https://fb.com/hossainrabbi71" target="blank" title="Facebook Profile"><img width="22" src="./img/facebook-32x32.png"> Facebook </a></code>
-  <code><a href="https://instagram.com/hossainrabbi71" target="blank" title="Instagram Profile"><img width="22" src="./img/instagram.svg"> Instagram</a></code>
+  <code><a href="https://fb.com/hossainrabbibd" target="blank" title="Facebook Profile"><img width="22" src="./img/facebook-32x32.png"> Facebook </a></code>
+  <code><a href="https://instagram.com/hossainrabbibd" target="blank" title="Instagram Profile"><img width="22" src="./img/instagram.svg"> Instagram</a></code>
   <code><a href="https://linkedin.com/in/hossainrabbi" target="blank" title="LinkedIn Profile"><img width="22" src="./img/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.behance.net/hossainrabbi" target="blank" title="Behance Profile"><img width="22" src="./img/behance-24x24.png"> Behance </a></code>
 </h5>
