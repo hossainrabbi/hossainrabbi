@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Hossain</h2>
+<h2 align="center">Hi there, I'm Hossain Rabbi</h2>
 <p align="center">
   A self-motivated, energetic, and passionate professional web Development with valuable experience in HTML, CSS, JavaScript and React JS.
 </p>
